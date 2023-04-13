@@ -2,7 +2,7 @@
 title: "Is IPFS Ready for Decentralized Video Streaming?"
 collection: publications
 permalink: /publication/2023-05-03-ipfs-streaming
-excerpt: 'ChengHao Ryan Yang, <b>Zhengyu Wu</b>, Santiago Vargas, and Aruna Balasubramanian'
+excerpt: '<b>Zhengyu Wu</b>, ChengHao Ryan Yang, Santiago Vargas, and Aruna Balasubramanian'
 date: 2023-05-03
 venue: 'ACM The Web Conference'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
