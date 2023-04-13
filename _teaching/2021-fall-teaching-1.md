@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall
 venue: "Stony Brook University, Computer Science"
-date: 2021-08
+date: 2021-08-26
 location: "Stony Brook, U.S"
 ---
 
