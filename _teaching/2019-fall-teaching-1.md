@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals of Software Development"
+title: "TA for Fundamentals of Software Development"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall

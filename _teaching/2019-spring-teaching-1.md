@@ -1,5 +1,5 @@
 ---
-title: "Computer Science I"
+title: "TA for Computer Science I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-spring

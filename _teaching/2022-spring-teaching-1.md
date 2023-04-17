@@ -1,5 +1,5 @@
 ---
-title: "Computer Networks"
+title: "TA for Computer Networks"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring
