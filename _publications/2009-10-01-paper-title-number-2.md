@@ -6,7 +6,7 @@ excerpt: '<b>Zhengyu Wu</b>, Brian Kondracki, Nick Nikiforakis, Aruna Balasubram
 date: 2024-06-02
 venue: 'IFIP Networking 2024'
 paperurl: 'http://littlespeechless.github.io/bio/files/ipfs-leaks.pdf'
-citation: "TBD"
+citation: "TBD  "
 ---
 
 [Download paper here](http://littlespeechless.github.io/bio/files/ipfs-leaks.pdf)
