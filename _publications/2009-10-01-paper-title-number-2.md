@@ -10,5 +10,3 @@ citation: "Z. Wu, B. Kondracki, N. Nikiforakis and A. Balasubramanian, \"Secrets
 "
 ---
 [Download paper here](http://littlespeechless.github.io/bio/files/ipfs-leaks.pdf)
-
-[//]: # (paperurl: 'http://littlespeechless.github.io/bio/files/ipfs-leaks.pdf')

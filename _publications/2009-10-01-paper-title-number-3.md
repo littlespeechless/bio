@@ -10,4 +10,3 @@ citation: 'TBD'
 ---
 [Download paper here]()
 
-[//]: # (paperurl: 'http://littlespeechless.github.io/bio/files/ipfs-leaks.pdf')
